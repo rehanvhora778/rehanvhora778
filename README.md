@@ -63,20 +63,28 @@ learning:    Machine Learning & Data Science
 
 ## 🔭 Currently Building & Learning
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 🛠️ Building
-- 🤖 A RAG-based chatbot using LangChain and vector search
-- 🌐 Full-stack web apps with the MERN stack (MongoDB, Express, React, Node.js)
-- 🐍 Python scripts and automation mini-projects
-- 📊 Small data analysis projects using Pandas and NumPy
-- 🔗 REST APIs connecting frontend and backend services
+- 🤖 A **RAG-based chatbot** using LangChain and vector search
+- 🌐 **Full-stack web apps** with the MERN stack (MongoDB, Express, React, Node.js)
+- 🐍 **Python automation scripts** and mini-projects
+- 📊 Small **data analysis** projects using Pandas & NumPy
+
+</td>
+<td width="50%" valign="top">
 
 ### 🌱 Learning & Exploring
-- 🧠 Machine Learning algorithms: regression, classification, clustering
-- 📚 Core Data Science concepts as part of my AIDS coursework
-- ⚛️ React.js, hooks, and modern frontend patterns
-- 🗄️ Databases and backend architecture with Node.js and Express
-- 🧩 Data Structures & Algorithms in Python
-- 🐙 Git and GitHub workflows for collaborative projects
+- 🧠 **Machine Learning algorithms**: regression, classification, clustering
+- 📚 Core **Data Science** concepts as part of my AIDS coursework
+- ⚛️ **React.js**, hooks, and modern frontend patterns
+- 🧩 **Data Structures & Algorithms** in Python
+
+</td>
+</tr>
+</table>
 
 ---
 
