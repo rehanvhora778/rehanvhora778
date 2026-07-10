@@ -137,17 +137,6 @@ learning:    Machine Learning & Data Science
 </tr>
 
 <tr>
-<td align="right"><b>🤖 GenAI / LLM</b></td>
-<td>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=langchain&theme=dark&animate=true" width="48" height="48" alt="langchain" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=gemini&theme=dark&animate=true" width="48" height="48" alt="gemini" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=openai&theme=dark&animate=true" width="48" height="48" alt="openai" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=ollama&theme=dark&animate=true" width="48" height="48" alt="ollama" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface&theme=dark&animate=true" width="48" height="48" alt="huggingface" />
-</td>
-</tr>
-
-<tr>
 <td align="right"><b>🌐 Backend</b></td>
 <td>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=django&theme=dark&animate=true" width="48" height="48" alt="django" />
